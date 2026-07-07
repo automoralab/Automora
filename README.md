@@ -57,7 +57,7 @@ AMORA is not a speculative asset. It is the currency that powers access to Autom
 | Launch | Fair launch via FirstLedger |
 | Contract | `r9aoXocongPEgUhvDKemRHvBybw1utsugN` |
 
-**0% developer allocation.** No team tokens. No presale. Every token entered circulation through the open market.
+**13% developer allocation.** No team tokens. No presale. Every token entered circulation through the open market.
 
 → [View AMORA on FirstLedger](https://firstledger.net/token-v2/r9aoXocongPEgUhvDKemRHvBybw1utsugN/AMR)  
 → [amorachain.com](https://amorachain.com)
@@ -117,7 +117,7 @@ If you are building in this space and see an opportunity to collaborate, we want
 
 AMORA is a utility token with a clear, building use case attached to a real company with real products in development. Key points for exchange consideration:
 
-- **Fair launch** — 0% dev allocation, no presale, no VC involvement
+- **Fair launch** — 13% dev allocation, no presale, no VC involvement
 - **Fixed supply** — 1,000,000 AMR, no minting
 - **Active development** — products being built and shipped continuously
 - **Growing community** — organic growth, Telegram active, XPMarket listing in progress
