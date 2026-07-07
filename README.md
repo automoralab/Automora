@@ -53,7 +53,7 @@ AMORA is not a speculative asset. It is the currency that powers access to Autom
 | Ticker | AMR |
 | Network | XRPL |
 | Total Supply | 1,000,000 |
-| Dev Allocation | 0% |
+| Dev Allocation | 13% |
 | Launch | Fair launch via FirstLedger |
 | Contract | `r9aoXocongPEgUhvDKemRHvBybw1utsugN` |
 
